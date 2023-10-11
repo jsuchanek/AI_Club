@@ -5,6 +5,7 @@ of index finger tip within the boundaries by pink tape.
 Date: September 2023
 """
 
+#may need to pip install these packages
 import cv2
 import mediapipe as mp #for finger tracking
 #import threading
